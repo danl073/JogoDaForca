@@ -26,8 +26,8 @@ public class MainActivity extends Activity {
 
     String palavra[] = {
             "Celta",
-            "Rose",
-            "Groselia",
+            "Jerry",
+            "Groselha",
             "Pindamonhangaba",
             "Internacional",
             "Santana",
@@ -38,7 +38,7 @@ public class MainActivity extends Activity {
 
     String dicas[] = {
             "Carro",
-            "Pesada",
+            "Personagem",
             "Fruta",
             "Cidade",
             "Time",
@@ -80,7 +80,6 @@ public class MainActivity extends Activity {
         btnI = findViewById(R.id.btnI);
         btnJ = findViewById(R.id.btnJ);
         btnK = findViewById(R.id.btnK);
-
         btnL = findViewById(R.id.btnL);
         btnM = findViewById(R.id.btnM);
         btnN = findViewById(R.id.btnN);
